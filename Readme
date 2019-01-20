@@ -3,3 +3,7 @@ What I learned:
   Math and Algorthim behind the Random Forest Classification 
   AdaBoost (Adaptive boosting) and how it creates a strong classifiers from weak classifiers
   Sklearn API for Random Forest and Adaboost machine learning algorthims  
+
+
+The weak classifier has an accuracy of 0.7811447811447811
+The boosted classifier has an accuracy of 0.9090909090909091
